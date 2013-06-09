@@ -1,4 +1,8 @@
 Quizzer v2
+
+Author: 1) C Ganesh Sundar
+	2) V Sidheswar
+
 This is a small console based quizzing program
 Platform: DOS/Windows Console
 

@@ -4,6 +4,9 @@
 ------------------
 ------------------
 
+Author: 1) C Ganesh Sundar
+	2) V Sidheswar
+
 Date: 02-01-2013
 
 Quizzer v2.0 is a small console based quizzing program.
